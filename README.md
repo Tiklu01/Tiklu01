@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Nanda Lal Das and I'm a passionate computer science student, from India</h2>
 
 ###
 
@@ -45,8 +45,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Tiklu01/Tiklu01/output/snake.svg" alt="Snake animation" />
 
