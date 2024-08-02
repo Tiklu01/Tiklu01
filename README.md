@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Nanda Lal Das and I'm a passionate computer science student, from India</h2>
 
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=AnuOdinson117&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuOdinson117&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=Tiklu01&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiklu01&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
 ###
 
 <div align="left">
