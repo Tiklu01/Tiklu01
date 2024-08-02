@@ -1,16 +1,7 @@
 <h2 align="left">Hi 👋! My name is Nanda Lal Das and I'm a passionate computer science student, from India</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiklu01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiklu01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/Lj9bGPMF9jmz4gk9QA/giphy.gif?cid=790b7611zf9sleoexczkhg3msdr0qk96ld74hueapro1hf73&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=AnuOdinson117&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuOdinson117&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
 ###
 
 <div align="left">
