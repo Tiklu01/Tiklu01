@@ -3,6 +3,7 @@
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=Tiklu01&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiklu01&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
 ###
+<img align="right" height="150" src="https://media.giphy.com/media/Lj9bGPMF9jmz4gk9QA/giphy.gif?cid=790b7611zf9sleoexczkhg3msdr0qk96ld74hueapro1hf73&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 <div align="left">
